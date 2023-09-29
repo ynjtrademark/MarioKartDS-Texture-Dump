@@ -11,5 +11,5 @@ In the (very) old MKDS Texture dump, some of the courses' textures were missing,
 
 Plus, it seems like a (somewhat) useful resource.
 
-## A texture or two are missing, what should I do?
-Submit an issue report with the texture I missed.
+## A texture or two are missing or has an incorrect name, what should I do?
+Submit an issue report with the texture I made a mistake on.
