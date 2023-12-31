@@ -2,7 +2,7 @@
 ## What is this?
 This is a (soon to be) complete Mario Kart DS texture dump.
 
-By the time this is finished, it will contain every texture from every course, character and kart, and map object, along with local and global maps, and cup pictures.
+By the time this is finished, it will contain every texture from every course, character, kart, and map object, along with local maps, global maps, and cup pictures.
 
 All textures dumped from courses, course objects, characters, and karts are in Nitro TGA format with their respective filenames.
 
