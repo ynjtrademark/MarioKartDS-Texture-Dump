@@ -1,0 +1,1 @@
+These textures don't actually exist in the game. They're kart_MR_a's texture with the proper kart_a.NCLR palette applied to them, hence why they're separate.
